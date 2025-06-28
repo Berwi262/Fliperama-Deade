@@ -1,17 +1,17 @@
 body {
    background: purple;
    color: white;
-   magin:0px;
+   margin: 0px;
+   font-family: "UoqMunThenKhung", serif;
 
 }
+
 header{
     border-bottom: solid 10px black;
     padding: 20px;
     font-size: 32px;
-    color:
-
-
-}
+    color: greenyellow
+ }
 
 section {
   background: black;
@@ -22,4 +22,10 @@ section {
 
 }
 
+.chamada-teto {
+  margin-right: 5%;
+  
+  
 
+
+}
